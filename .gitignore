@@ -1,0 +1,7 @@
+### IntelliJ ###
+opm.iml
+/.idea
+
+### Rust ###
+**/*.rs.bk
+/target

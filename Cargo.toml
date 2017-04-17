@@ -1,0 +1,19 @@
+[dependencies]
+clap = "2.23.2"
+hyper = "0.10.8"
+json = "0.11.6"
+
+[package]
+authors = [
+    "Hunar Roop Kahlon <hunar.roop@gmail.com>"
+]
+description = """
+opm is a (very much work in progress) plugin manager for Ore projects.
+"""
+homepage = "https://pxlpowered.github.io/opm"
+license-file = "LICENSE"
+name = "opm"
+readme = "README.md"
+repository = "https://github.com/pxlpowered/opm"
+version = "0.1.0"
+
