@@ -1,6 +1,6 @@
 cache:
   directories:
-    - target/debug/fingerprint
+    - ~/.cargo
     - target/debug/deps
 
 language: rust
