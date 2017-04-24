@@ -1,6 +1,6 @@
 /*
  Crate:         opm
- File:          /lib.rs
+ File:          /main.rs
  Module:        ::
  Visibility:    public
  */
